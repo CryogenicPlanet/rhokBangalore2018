@@ -6,3 +6,5 @@ The convoutional neural network was trained based on a part of the dataset with 
 The project was trained on a powerful server with 32 cores and 64gb of memory running Ubuntu operationg system which allowed for fast download speeds and short training times.
 ## Results
 The convoutional neural network churned out an average of 60% accuracy. The accuracy could be improved by decreasing the number of species that were to be identified, treating outliers in early stages and by using more images of species which were rare and didn't have enough images.
+## Application
+The project can be used to understand ecosystems and develop insights on how ecosystems are affected by species present. Researchers may use the project to understand and identify biotic life better and conduct scientific studies.
