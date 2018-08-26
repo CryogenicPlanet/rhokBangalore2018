@@ -4,6 +4,12 @@ An inception v3 based convoutional neural network is trained using a dataset pro
 The convoutional neural network was trained based on a part of the dataset with varied epoch cycles from 0.3 to 55.
 ##  Computation
 The project was trained on a powerful server with 32 cores and 64gb of memory running Ubuntu operationg system which allowed for fast download speeds and short training times.
+## Dependencies
+  1. Tensorflow
+  2. Inception
+  3. Python3
+## Executing
+ Read all the .md files in each folder to get a clear understanding of how exactly to excute the model.
 ## Results
 The convoutional neural network churned out an average of 60% accuracy. The accuracy could be improved by decreasing the number of species that were to be identified, treating outliers in early stages and by using more images of species which were rare and didn't have enough images.
 ## Application
